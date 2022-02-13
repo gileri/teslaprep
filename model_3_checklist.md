@@ -138,7 +138,7 @@ N'ayez pas l'impression que vous devez bâcler cette inspection. L'équipe de li
 1. [ ] Ouverture automatique avec présence téléphone via bluetooth
 
 
-## SECTION G - Optional equipment
+## SECTION G - Équipement optionnel
 1. [ ] Fixation de la plaque d'immatriculation avant
 1. [ ] Vérifier que le crochet de remorquage est présent sous le tapis du frunk
 1. [ ] Spécifique France (ou Europe ?): Triangle de pré-signalisation et gilet
