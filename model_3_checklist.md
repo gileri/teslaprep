@@ -1,135 +1,138 @@
 # Model 3 Checklist #
 
-This is available as a [mobile app for iOS and Android](https://teslaprep.glideapp.io), too.
+La version originale (en anglais) est disponible en [application mobile iOS et Android](https://teslaprep.glideapp.io).
 
-This pre-drive checklist is designed to be done in a specific flow to save time and make sure nothing is missed. You will essentially do several "laps" around the car. Start at the beginning and work your way down the list. By the end, your car will be fully reviewed. Feel free to print this out and bring it, along with a pen. Don't feel like you need to rush through the inspection. The delivery team at Tesla will certainly seem like they want to move quickly, but you don't need to leave the lot until you're 100% satisfied. Take your time
+Cette liste de contrôle pré-conduite suit un cours spécifique pour faire gagner du temps et ne rien manquer. Vous allez faire plusieurs "tours" autour de la voiture. Commencez par le début et progressez dans la liste. En arrivant à la fin, votre voiture sera complètement vérifiez. N'hésitez pas à l'imprimer, et la ramener avec un stylo.
+N'ayez pas l'impression que vous devez bâcler cette inspection. L'équipe de livraison Telsa vous mettra vraisemblablement la pression, mais ne partez pas du parking tant que vous n'êtes pas totalement satisfaits. Prenez votre temps !
 
 ---
 
-## SECTION A - Verify pre-delivery vehicle records ##
+## SECTION A - Documents ##
 
-> Make sure the car you ordered is the car you're getting!
+> Vérifiez que la voiture commandée correspond à la voiture livrée !
 
-1. [ ] Check for the correct full name and address on your paperwork
-1. [ ] Confirm the vehicle's VIN matches your paperwork
-1. [ ] Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-left, then tapping Software)
-1. [ ] Verify that the vehicle's Monroney record matches your configuration
-1. [ ] Verify that the vehicle's body color, interior, and wheels match what you configured
+1. [ ] Le VIN et votre adresse postale sur les papiers correspond à votre reservation
+1. [ ] Le VIN sur le véhicule correspond aux papiers
+1. [ ] Les informations dans la section "À propos" du véhicule corresponde (en cliquant sur l'icone de voiture en bas à gauche, puis "Logiciel")
+1. [ ] La couleur, intérieur et roues correspondent à ce que vous avez configuré
 
-## SECTION B - Exterior inspection ##
+## SECTION B - Inspection extérieure ##
 
-### Panel gaps ###
+### Alignement de la carrosserie ###
 
-> Do a lap of the car, check for any obvious body panel misalignment, or large gaps
+> Faites un tour du véhicule, et vérifiez qu'il n'y ait pas de mauvais aligments des panneaux de carrosserie.
 
-1. [ ] Front of frunk properly aligns with where it meets the bumper
-1. [ ] Trunk arms properly align with where they meet the left and right quarter panels
-1. [ ] Headlights and rear lights are flush with the body
-1. [ ] Charging port is flush with the body
+1. [ ] Le contour du frunk est correctement aligné avec le pare-choc
+1. [ ] Le contour du coffre s'aligne correctement avec l'aile
+1. [ ] Les feux avants et arrières sont alignés (en profondeur) avec la carosserie
+1. [ ] Le port de charge est aligné avec la carosserie
 
-### Paint condition walkaround ###
+### État de la peinture ###
 
-> Looking for scrapes, damage, overspray, underspray, dents and dings. Include all trim and door handles as part of this review
+> Cherchez des erraflures, zones avec trop ou pas assez de peinture, impacts. Pensez aux garnitures, poignées.
 
-**WITH ALL DOORS CLOSED**
-1. [ ] Inspect vehicle underside plastic trim (front and rear) for signs of scraping, or damage
-1. [ ] Front bumper
-1. [ ] Right front quarter panel
-1. [ ] Right front wheel
-1. [ ] Right passenger door
-1. [ ] Right rear door
-1. [ ] Right rear wheel
-1. [ ] Right rear quarter panel
-1. [ ] Trunk
-1. [ ] Rear bumper
-1. [ ] Left rear quarter panel
-1. [ ] Left rear wheel
-1. [ ] Left rear door
-1. [ ] Driver's door
-1. [ ] Left front wheel
-1. [ ] Left front quarter panel
+**Avec les portes fermées**
+1. [ ] Cherchez des erraflures ou impacts sur les pièces plastiques du dessous du véhicule (avant/arrière/côtés)
+1. [ ] Pare-choc avant
+1. [ ] Aile avant droite
+1. [ ] Roue avant droite
+1. [ ] Porte avant droite
+1. [ ] Porte arrière droite
+1. [ ] Roue arrière droite
+1. [ ] Aile arrière droite
+1. [ ] Coffre
+1. [ ] Pare-choc arrière
+1. [ ] Aile arrière gauche
+1. [ ] Roue arrière gauche
+1. [ ] Porte arrière gauche
+1. [ ] Portière conducteur
+1. [ ] Roue avant gauche
+1. [ ] Aile avant gauche
 1. [ ] Frunk
 
-**OPEN ALL DOORS, INCLUDING FRUNK, TRUNK**
-1. [ ] Test power liftgate operation on trunk
-1. [ ] Test all doors (including frunk and trunk) to ensure they open and close without unreasonable effort or sound
-1. [ ] Ensure door windows auto-close completely when doors are closed
-1. [ ] Check the frunk/trunk lighting
-1. [ ] Check paint in areas such as door hinges, the bottom of the frunk/trunk, etc. that are not visible when doors are closed
+**Ouvrir toutes les portes, le frunk et coffre**
+1. [ ] Fonctionnement du coffre électrique
+1. [ ] Tous les ouvrants (dont frunk et coffre) s'ouvrent et se ferment sans effort disproportionné, ou bruit important
+1. [ ] Les fenêtres se ferment correctement automatiquement lors de la fermeture des portières
+1. [ ] Éclairage du coffre avant et arrière
+1. [ ] Peinture des zones cachées, telles que les charnières de portières, le dessous du coffre avant/arrière
 
-### Glass and seal condition
-1. [ ] Inspect all glass (including side mirrors) for signs of distortion, scratches, or cracks
-1. [ ] Inspect the weather seals around door gaps and windows
-1. [ ] Verify that the water guards that line the trunk (below the rear windshield) are free and clear
-1. [ ] Check for proper windshield and windshield trim installation
-1. [ ] Inspect all edges of the roof glass panel and rear window
-
-
-## SECTION C - Interior inspection
-
-1. [ ] Inspect interior seat upholstery, door surfaces, dash, headliner and carpets (including passenger compartment, frunk, and trunk)
-
-**SIT IN DRIVER'S SEAT**
-1. [ ] Check for any error messages on the display screen
-1. [ ] Check all four windows to ensure they roll up and down properly
-1. [ ] Test the windshield wipers
-1. [ ] Test the rearview camera
-1. [ ] Check side mirrors for proper operation of folding and position adjustment
-1. [ ] Test the steering wheel position controls to ensure proper operation
-1. [ ] Press the center of the steering wheel to make sure the vehicle's horn works
-1. [ ] Check the rearview mirror for any warping or distortion
-1. [ ] Check sunvisor operation, mirror condition and lighting operation
-1. [ ] Front overhead driver and passenger lights
-1. [ ] Check center console cover slide operation and middle/rear compartment lights
-1. [ ] Check glovebox opening and closing functions (and lighting)
-1. [ ] Check seat all position controls
-1. [ ] Check driver and passenger footwell lighting
-1. [ ] Check steering wheel control lights (they may need to be enabled in Driver settings)
-1. [ ] Test connectivity of wireless phone charger
-
-### Infotainment inspection
-1. [ ] Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
-1. [ ] Tap the "Toybox" icon at the bottom right of the screen and launch the Sketchpad app. Leave the Sketchpad up for a minute to make sure there are no phantom touches happening on the display, or dead pixels
-
-**GET OUT OF THE DRIVER'S SEAT**
-1. [ ] Gently test the driver and passenger door emergency releases
-1. [ ] Check driver and passenger door puddle lights
-1. [ ] Check all door latch button lights
-1. [ ] Check all door window button lights
-1. [ ] Check front, rear and middle seatbelts for proper operation
-1. [ ] Check rear left and right clothing hook operation in the rear passenger area
-1. [ ] Check the rear seats for proper fold-down operation
-1. [ ] Check rear left and right overhead lights
-1. [ ] Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear)
+### Verre et joints
+1. [ ] Pas de distortion, rayures ou fissures sur les parties vitrées (pensez au rétroviseurs)
+1. [ ] Bon état des joints autour des vitres et portières
+1. [ ] Les goutières pour l'eau dans le coffre (sous la lunette arrière) sont propres et sans défauts
+1. [ ] Le pare-brise et ses joints sont correctement positionnés
+1. [ ] Inspecter les angles et la surface du toit et lunette arrière
 
 
-## SECTION D - Lighting inspection
-1. [ ] Front headlights (low and high-beam) operation and alignment. Ensure there is no condensation inside the light's housing
-1. [ ] Front park lights
-1. [ ] Front fog lights
+## SECTION C - Inspection intérieure
 
-**TURN ON HAZARD LIGHTS**
-1. [ ] Front turn signal lights
-1. [ ] Left and right turn signal lights
-1. [ ] Rear turn signal lights
-1. [ ] Rear running lights
-1. [ ] Rear brake lights. Ensure there is no condensation inside the light's housing
+1. [ ] Bon état de la sellerie (dont coutures), de la surface des portes, tableau de bord, du plafond et tapis. Pensez au coffres avant et arrières.
+
+**Depuis le siège conducteur**
+1. [ ] Pas de messages d'erreur sur l'écran
+1. [ ] Faire descendre et monter les 4 fenêtres
+1. [ ] Essayer les essuies-glasses avant et arrière
+1. [ ] Essayer la caméra de recul, et caméras latérales
+1. [ ] Vérifier toute la course et le positonnement des rétroviseurs
+1. [ ] Vérifier toute la course d'ajustement du volant (profondeur, haut/bas)
+1. [ ] Essayer le klaxon
+1. [ ] Regarder et ajuster le rétroviseur
+1. [ ] Ouvrir et fermer les pare-soleil, le mirroir et l'éclairage
+1. [ ] Lumière plafonnière conducteur et passager
+1. [ ] Ouverture/fermeture de la console centrale, lumières dans les compartiments milieu et arrière
+1. [ ] Ouverture et fermeture de la boîte à gants, et son éclairage
+1. [ ] Ajuster dans toutes les directions et jusqu'aux butées les ajustements des sièges
+1. [ ] Éclairage des d'ambiance au niveau des pieds conducteur et passager
+1. [ ] Éclairage des boutons du volant
+1. [ ] (Si disponible) : Fonctionnement du chargeur sans fil téléphone
+
+### Ordinateur de bord
+1. [ ] Tous les hauts parleurs du système audio fonctionnent (utiliser le fader/balance pour "déplacer" le son dans le véhicule)
+1. [ ] Ouvrez la "Toybox", puis l'application "Dessin". La laisser ouverte sans y toucher 1 minute pour vérifier que l'écran tactile ne fait pas de faux-clics.
+1. [ ] Toujours dans l'application "Dessin", essayer de dessiner sur tout l'écran pour vérifier l'écran tactile.
+
+**Hors du siège conducteur**
+1. [ ] Essayez (doucement) l'ouverture d'urgence des portes conducteur et passager
+1. [ ] Fonctionnement de la lumière des marchepieds conducteur et passager
+1. [ ] Lumières des boutons d'ouverture des portières
+1. [ ] Lumières des boutons de fenêtre
+1. [ ] Fonctionnement des 5 ceintures
+1. [ ] Fonctionnement des crochets à chemise arrière droite et gauche
+1. [ ] Fermez puis ouvrir la banquette arrière
+1. [ ] Lumières plafonnières arrière droite et gauche
+1. [ ] Fonctionnement de tous les ports USB, avant et arrière
 
 
-## SECTION E - Charging ability
-1. [ ] Check the charge port door for proper operation
-1. [ ] Check charge port indicator light
-1. [ ] Ensure the vehicle will accept a charge
-1. [ ] Check the mobile charging kit (J1772, NEMA 5-15, mobile connector with cable)
+## SECTION D - Éclairage
+1. [ ] Bon fonctionnement et alignement des phares avant (croisement et plein feux). Vérifier qu'il n'y ait pas trop de condensation à l'intérieur
+1. [ ] Feux de jour avant
+1. [ ] Antibrouillards avant
+
+**Allumez les warnings**
+1. [ ] Clignotants avant
+1. [ ] Répétiteurs droite et gauche
+1. [ ] Clignotants arrière
+1. [ ] Feux de position arrières
+1. [ ] Feux stop arrière
+1. [ ] Pas de condensation excessive dans le bloc-phare
 
 
-## SECTION F - Inspect pairing connectivity
-1. [ ] Test both key cards to ensure they work with your vehicle. Keep one key card on your person in case the phone app does not operate properly
-1. [ ] Pair your smartphone to your vehicle over Bluetooth
+## SECTION E - Recharge
+1. [ ] Fonctionnement de la trappe de recharge
+1. [ ] Indicateur de charge
+1. [ ] Essayer de charger le véhicule en superchargeur
+1. [ ] Essayer de charger le véhicule avec le chargeur mobile
+
+
+## SECTION F - Cartes et téléphone
+1. [ ] Fonctionnement des deux cartes "clés". Toujours garder une carte avec vous
+1. [ ] Association de votre téléphone en bluetooth
+1. [ ] Ouverture automatique avec présence téléphone via bluetooth
 
 
 ## SECTION G - Optional equipment
-1. [ ] Check for front license plate bracket (if applicable in your region)
-1. [ ] Check for the towing eye under the frunk mat
-1. [ ] Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk)
-1. [ ] Verify that any additional floor mats are included (if ordered)
+1. [ ] Fixation de la plaque d'immatriculation avant
+1. [ ] Vérifier que le crochet de remorquage est présent sous le tapis du frunk
+1. [ ] Spécifique France (ou Europe ?): Triangle de pré-signalisation et gilet
+1. [ ] Si commandés, vérifier la présence des tapis de sol
