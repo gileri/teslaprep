@@ -82,15 +82,20 @@ N'ayez pas l'impression que vous devez bâcler cette inspection. L'équipe de li
 1. [ ] Lumière plafonnière conducteur et passager
 1. [ ] Ouverture/fermeture de la console centrale, lumières dans les compartiments milieu et arrière
 1. [ ] Ouverture et fermeture de la boîte à gants, et son éclairage
+1. [ ] Présence de la clé USB tesla pour le mode Sentinelle
 1. [ ] Ajuster dans toutes les directions et jusqu'aux butées les ajustements des sièges
 1. [ ] Éclairage des d'ambiance au niveau des pieds conducteur et passager
 1. [ ] Éclairage des boutons du volant
+1. [ ] Allumer le chauffage puis la climatisation, vérifier qu'il n'y ait pas de bruits importants
+1. [ ] Vérifiez que l'air arrive à sortir par toutes les bouches (pieds, pare-brise, arrière)
+1. [ ] Allumez le dégivrage arrière, touchez la lunette arrière pour vérifier que la toute la surface est tiède
 1. [ ] (Si disponible) : Fonctionnement du chargeur sans fil téléphone
 
 ### Ordinateur de bord
 1. [ ] Tous les hauts parleurs du système audio fonctionnent (utiliser le fader/balance pour "déplacer" le son dans le véhicule)
 1. [ ] Ouvrez la "Toybox", puis l'application "Dessin". La laisser ouverte sans y toucher 1 minute pour vérifier que l'écran tactile ne fait pas de faux-clics.
 1. [ ] Toujours dans l'application "Dessin", essayer de dessiner sur tout l'écran pour vérifier l'écran tactile.
+1. [ ] Bonne réception réseau mobile
 
 **Hors du siège conducteur**
 1. [ ] Essayez (doucement) l'ouverture d'urgence des portes conducteur et passager
@@ -115,10 +120,12 @@ N'ayez pas l'impression que vous devez bâcler cette inspection. L'équipe de li
 1. [ ] Clignotants arrière
 1. [ ] Feux de position arrières
 1. [ ] Feux stop arrière
+1. [ ] En se collant à un mur ou avec l'aide d'une personne, fonctionnement feu de recul
 1. [ ] Pas de condensation excessive dans le bloc-phare
 
 
 ## SECTION E - Recharge
+1. [ ] Niveau de charge de la batterie suffisant pour aller au prochain chargeur
 1. [ ] Fonctionnement de la trappe de recharge
 1. [ ] Indicateur de charge
 1. [ ] Essayer de charger le véhicule en superchargeur
