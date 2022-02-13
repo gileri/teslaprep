@@ -70,6 +70,7 @@ N'ayez pas l'impression que vous devez bâcler cette inspection. L'équipe de li
 1. [ ] Bon état de la sellerie (dont coutures), de la surface des portes, tableau de bord, du plafond et tapis. Pensez au coffres avant et arrières.
 
 **Depuis le siège conducteur**
+1. [ ] Alignement du volant et des roues. Lorsque les roues sont droites, le volant doit l'être aussi
 1. [ ] Pas de messages d'erreur sur l'écran
 1. [ ] Faire descendre et monter les 4 fenêtres
 1. [ ] Essayer les essuies-glasses avant et arrière
@@ -142,4 +143,5 @@ N'ayez pas l'impression que vous devez bâcler cette inspection. L'équipe de li
 1. [ ] Fixation de la plaque d'immatriculation avant
 1. [ ] Vérifier que le crochet de remorquage est présent sous le tapis du frunk
 1. [ ] Spécifique France (ou Europe ?): Triangle de pré-signalisation et gilet
+1. [ ] Spécifique France (ou Europe ?): Câble de charge Type 2
 1. [ ] Si commandés, vérifier la présence des tapis de sol
