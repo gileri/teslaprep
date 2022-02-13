@@ -35,18 +35,18 @@ N'ayez pas l'impression que vous devez bâcler cette inspection. L'équipe de li
 1. [ ] Cherchez des erraflures ou impacts sur les pièces plastiques du dessous du véhicule (avant/arrière/côtés)
 1. [ ] Pare-choc avant
 1. [ ] Aile avant droite
-1. [ ] Roue avant droite
+1. [ ] Roue avant droite (et bouchon, passage de roue)
 1. [ ] Porte avant droite
 1. [ ] Porte arrière droite
-1. [ ] Roue arrière droite
+1. [ ] Roue arrière droite (et bouchon, passage de roue)
 1. [ ] Aile arrière droite
 1. [ ] Coffre
 1. [ ] Pare-choc arrière
 1. [ ] Aile arrière gauche
-1. [ ] Roue arrière gauche
+1. [ ] Roue arrière gauche (et bouchon, passage de roue)
 1. [ ] Porte arrière gauche
 1. [ ] Portière conducteur
-1. [ ] Roue avant gauche
+1. [ ] Roue avant gauche (et bouchon, passage de roue)
 1. [ ] Aile avant gauche
 1. [ ] Frunk
 
@@ -97,6 +97,7 @@ N'ayez pas l'impression que vous devez bâcler cette inspection. L'équipe de li
 1. [ ] Ouvrez la "Toybox", puis l'application "Dessin". La laisser ouverte sans y toucher 1 minute pour vérifier que l'écran tactile ne fait pas de faux-clics.
 1. [ ] Toujours dans l'application "Dessin", essayer de dessiner sur tout l'écran pour vérifier l'écran tactile.
 1. [ ] Bonne réception réseau mobile
+1. [ ] Microphone : Déclencher une commande vocale (enfoncer bouton droit sur le volant)
 
 **Hors du siège conducteur**
 1. [ ] Essayez (doucement) l'ouverture d'urgence des portes conducteur et passager
@@ -136,6 +137,7 @@ N'ayez pas l'impression que vous devez bâcler cette inspection. L'équipe de li
 ## SECTION F - Cartes et téléphone
 1. [ ] Fonctionnement des deux cartes "clés". Toujours garder une carte avec vous
 1. [ ] Association de votre téléphone en bluetooth
+1. [ ] Partage de connexion Wifi depuis un téléphone
 1. [ ] Ouverture automatique avec présence téléphone via bluetooth
 
 
